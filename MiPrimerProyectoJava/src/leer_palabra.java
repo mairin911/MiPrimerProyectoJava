@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LeerPalabra {
+public class leer_palabra {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LeerLinea {
+public class leer_texto_completo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
