@@ -1,0 +1,10 @@
+public class Main 
+{
+    public static void main(String[] args) {
+        byte dineroInicial = 1000;
+        byte retirosSemana = 200;
+        byte totalSemanas = 4;
+        byte totalDinero = dineroInicial - (retirosSemana * totalSemanas);
+        System.out.println("total en cuenta un mes despues: $" + totalDinero);
+    }
+}
