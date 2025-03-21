@@ -1,4 +1,4 @@
-public class operadores_comparacion {
+public class Operadores_comparacion {
 
 
     public static void main(String[] args) {

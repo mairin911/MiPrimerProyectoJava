@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicio12 {
+public class Ejercicio12 {
         public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.print("Ingrese la cantidad de empleados: ");
@@ -25,4 +25,4 @@ public class ejercicio12 {
     System.out.println("Cantidad de empleados que cobran más de $300: " + countMoreThan300);
     System.out.println("Importe total que gasta la empresa en sueldos: $" + totalSalary);
         }
-    }
+}

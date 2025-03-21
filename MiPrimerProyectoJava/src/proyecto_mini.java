@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class proyecto_mini {
+public class Proyecto_mini {
 
 
     public static void main(String[] args) {

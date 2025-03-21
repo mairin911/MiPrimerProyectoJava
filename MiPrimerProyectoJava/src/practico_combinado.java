@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class practico_combinado {
+public class Practico_combinado {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese nombre: ");
@@ -9,7 +9,7 @@ public class practico_combinado {
         byte edad = scanner.nextByte();
         System.out.print("Ingrese altura : ");
         float altura = scanner.nextFloat();
-
+scanner.close();
         System.out.println("Hola, " + nombre + ". Tienes " + edad + " años y mides " + altura + " metros.");
     }
 }

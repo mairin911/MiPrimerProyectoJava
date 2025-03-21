@@ -1,4 +1,4 @@
-public class contar_pares {
+public class Contar_pares {
     public static void main(String[] args) {
         int contadorPares = 0;
         for (int i = 1; i <= 100; i++) {

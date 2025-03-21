@@ -1,4 +1,4 @@
-public class ejercicio_banco
+public class Ejercicio_banco
  
 {
     public static void main(String[] args) {

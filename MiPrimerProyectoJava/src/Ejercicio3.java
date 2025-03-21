@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicio3 {
+public class Ejercicio3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un número positivo de uno o dos dígitos (1..99): ");

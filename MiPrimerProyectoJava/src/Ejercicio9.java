@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicio9 {
+public class Ejercicio9 {
         public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
      System.out.println("ingrese nota uno");

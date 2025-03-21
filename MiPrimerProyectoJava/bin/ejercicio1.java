@@ -1,13 +1,13 @@
 import java.util.Scanner;
 
-public class mm {
+public class ejercicio1 {
     public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
      System.out.println( "ingrese primer numero: ");
      int numUno = sc.nextInt();
      System.out.println( "ingrese segundo numero: ");
      int numDos = sc.nextInt();
-
+      sc.close();
      if (numUno > numDos){
        int suma=  numUno+numDos;
        int resta= numUno-numDos;

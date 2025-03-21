@@ -1,4 +1,4 @@
-public class ejercicio_tienda 
+public class Ejercicio_tienda 
 {
     public static void main(String[] args) {
         float precioCamisa = 25.0f;

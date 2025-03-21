@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicio11 {
+public class Ejercicio11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int countGreaterOrEqual7 = 0;
